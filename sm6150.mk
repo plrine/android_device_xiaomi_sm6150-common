@@ -230,6 +230,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     CarrierConfigOverlayCommon \
     FrameworkResOverlayCommon \
+    NexusLauncherOverlay \
     SettingsOverlayCommon \
     SettingsProviderOverlayCommon \
     SystemUIOverlayCommon \
